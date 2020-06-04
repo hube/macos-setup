@@ -12,6 +12,6 @@ Post Install
 1. Finish setting up [pyenv][2]
 1. Setup screensaver shortcut ([instructions][3])
 
-[1] http://dotfiles.github.io/
-[2] https://github.com/pyenv/pyenv
-[3] https://osxdaily.com/2014/07/10/set-screen-saver-keyboard-shortcut-mac/
+[1]: http://dotfiles.github.io/
+[2]: https://github.com/pyenv/pyenv
+[3]: https://osxdaily.com/2014/07/10/set-screen-saver-keyboard-shortcut-mac/
