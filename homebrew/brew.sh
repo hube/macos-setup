@@ -5,7 +5,6 @@ brew install \
   git \
   gradle \
   postgresql \
-  pow \
   pyenv \
   rbenv \
   redis
