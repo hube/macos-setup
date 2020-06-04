@@ -8,8 +8,7 @@ brew install \
   pow \
   pyenv \
   rbenv \
-  redis \
-  ruby-build
+  redis
 
 # Application-specific configuration
 brew services start postgresql

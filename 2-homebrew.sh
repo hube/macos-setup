@@ -6,8 +6,8 @@
 # Inspect system status
 brew doctor
 
-source brew.sh
-source cask.sh
+source homebrew/brew.sh
+source homebrew/cask.sh
 
 # Remove outdated versions from the cellar
 brew cleanup
