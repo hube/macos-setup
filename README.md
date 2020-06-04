@@ -9,9 +9,11 @@ Usage
 
 Post Install
 ============
-1. Finish setting up [pyenv][2]
-1. Setup screensaver shortcut ([instructions][3])
+1. Install a modern Ruby
+    * See a list of Ruby versions with `rbenv install -l`
+1. Install a modern Python
+    * See a list of Python versions with `pyenv install -l`
+1. Setup screensaver shortcut ([instructions][2])
 
 [1]: http://dotfiles.github.io/
-[2]: https://github.com/pyenv/pyenv
-[3]: https://osxdaily.com/2014/07/10/set-screen-saver-keyboard-shortcut-mac/
+[2]: https://osxdaily.com/2014/07/10/set-screen-saver-keyboard-shortcut-mac/
