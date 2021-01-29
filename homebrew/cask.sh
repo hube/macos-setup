@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-brew cask install \
+brew install \
   adobe-acrobat-reader \
   disk-inventory-x \
   dropbox \
