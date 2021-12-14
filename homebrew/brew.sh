@@ -14,6 +14,7 @@ brew install \
   disk-inventory-x \
   docker \
   firefox \
+  gnucash \
   homebrew/cask-fonts/font-fira-mono \
   google-chrome \
   iterm2 \
