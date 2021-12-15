@@ -3,5 +3,6 @@
 cp \
   home/.gemrc \
   home/.gitignore \
+  home/.zprofile \
   home/.zshrc \
   ~
