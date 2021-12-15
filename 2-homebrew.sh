@@ -7,7 +7,6 @@
 brew doctor
 
 source homebrew/brew.sh
-source homebrew/cask.sh
 
 # Remove outdated versions from the cellar
 brew cleanup
