@@ -1,6 +1,6 @@
 export EDITOR=vim
 
-alias buc='brew upgrade && brew cleanup'
+alias buc='brew update && brew upgrade && brew cleanup'
 alias gcm='git commit -m'
 
 # Unset LESS
