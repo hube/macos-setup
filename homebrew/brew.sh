@@ -16,7 +16,6 @@ brew install \
   docker \
   firefox \
   gnucash \
-  homebrew/cask-fonts/font-fira-mono \
   google-chrome \
   iterm2 \
   karabiner-elements \
