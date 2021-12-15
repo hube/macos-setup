@@ -1,6 +1,7 @@
 export EDITOR=vim
 
 alias buc='brew upgrade && brew cleanup'
+alias gcm='git commit -m'
 
 # Unset LESS
 # https://github.com/ohmyzsh/ohmyzsh/pull/6611
