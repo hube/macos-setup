@@ -7,3 +7,4 @@ source 4-git.sh
 source 5-pyenv.sh
 source 6-home.sh
 source 7-sublime-text.sh
+source 8-nvm.sh
