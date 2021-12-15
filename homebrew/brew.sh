@@ -18,6 +18,7 @@ brew install \
   homebrew/cask-fonts/font-fira-mono \
   google-chrome \
   iterm2 \
+  karabiner-elements \
   scroll-reverser \
   shiftit \
   steam \
