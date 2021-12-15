@@ -13,7 +13,7 @@ Post Install
     * See a list of Ruby versions with `rbenv install -l`
 1. Install a modern Python
     * See a list of Python versions with `pyenv install -l`
-1. Setup screensaver shortcut ([instructions][2])
+1. Install a current Node
+    * `nvm install --lts`
 
 [1]: http://dotfiles.github.io/
-[2]: https://osxdaily.com/2014/07/10/set-screen-saver-keyboard-shortcut-mac/
