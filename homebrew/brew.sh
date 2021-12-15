@@ -6,7 +6,8 @@ brew install \
   git \
   gradle \
   pyenv \
-  rbenv
+  rbenv \
+  vim
 
 # Casks
 brew install \
