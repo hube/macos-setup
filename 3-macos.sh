@@ -134,3 +134,11 @@ defaults write com.apple.SoftwareUpdate CriticalUpdateInstall -int 1
 
 # Turn on app auto-update
 defaults write com.apple.commerce AutoUpdate -bool true
+
+###############################################################################
+# Personal customizations                                                     #
+###############################################################################
+
+# Disable the lookup shortcut (control-command-d)
+# https://apple.stackexchange.com/questions/22785/how-do-i-disable-the-command-control-d-word-definition-keyboard-shortcut-in-os-x
+defaults write com.apple.symbolichotkeys AppleSymbolicHotKeys -dict-add 70 '<dict><key>enabled</key><false/></dict>'
