@@ -142,3 +142,14 @@ defaults write com.apple.commerce AutoUpdate -bool true
 # Disable the lookup shortcut (control-command-d)
 # https://apple.stackexchange.com/questions/22785/how-do-i-disable-the-command-control-d-word-definition-keyboard-shortcut-in-os-x
 defaults write com.apple.symbolichotkeys AppleSymbolicHotKeys -dict-add 70 '<dict><key>enabled</key><false/></dict>'
+
+# Set keyboard shortcuts for tiling windows (based on ShiftIt shortcuts)
+defaults write -g NSUserKeyEquivalents -dict-add "\033Window\033Fill" "@~^\\U21a9"
+defaults write -g NSUserKeyEquivalents -dict-add "\033Window\033Move & Resize\033Bottom" "@~^\\U0093"
+defaults write -g NSUserKeyEquivalents -dict-add "\033Window\033Move & Resize\033Bottom Left" "@~^3"
+defaults write -g NSUserKeyEquivalents -dict-add "\033Window\033Move & Resize\033Bottom Right" "@~^4"
+defaults write -g NSUserKeyEquivalents -dict-add "\033Window\033Move & Resize\033Left" "@~^\\U0090"
+defaults write -g NSUserKeyEquivalents -dict-add "\033Window\033Move & Resize\033Right" "@~^\\U0092"
+defaults write -g NSUserKeyEquivalents -dict-add "\033Window\033Move & Resize\033Top" "@~^\\U0091"
+defaults write -g NSUserKeyEquivalents -dict-add "\033Window\033Move & Resize\033Top Left" "@~^1"
+defaults write -g NSUserKeyEquivalents -dict-add "\033Window\033Move & Resize\033Top Right" "@~^2"
