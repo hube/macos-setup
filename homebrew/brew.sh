@@ -1,22 +1,25 @@
 #!/usr/bin/env bash
 
 brew install \
-  docker-compose \
   git \
-  vim
+  libusb \
+  vim \
+  zsh
 
 # Casks
 brew install \
+  1password \
   adobe-acrobat-reader \
-  disk-inventory-x \
-  docker \
+  docker-desktop \
   firefox \
   gnucash \
   google-chrome \
+  heroic \
   iterm2 \
   karabiner-elements \
+  obsidian \
+  rectangle \
   scroll-reverser \
-  shiftit \
   steam \
   sublime-text \
   the-unarchiver \
