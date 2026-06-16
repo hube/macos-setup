@@ -5,4 +5,3 @@ source 2-homebrew.sh
 source 3-macos.sh
 source 4-git.sh
 source 5-home.sh
-source 6-sublime-text.sh
