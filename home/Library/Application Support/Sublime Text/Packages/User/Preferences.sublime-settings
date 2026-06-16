@@ -9,18 +9,13 @@
 	[
 		".git",
 		".gradle",
-		".hg",
-		".svn",
 		"__pycache__",
-		"CVS",
-		"bower_components",
 		"build",
-		"dist",
 		"log",
 		"node_modules",
 		"tmp"
 	],
-	"font_size": 21,
+	"font_size": 22,
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -38,12 +33,11 @@
 		"MATLAB",
 		"Objective-C",
 		"OCaml",
-		"PyV8",
 		"R",
 		"Scala",
 		"TCL",
 		"Textile",
-		"Vintage"
+		"Vintage",
 	],
 	"rulers":
 	[
@@ -57,5 +51,7 @@
 	"translate_tabs_to_spaces": true,
 	"trim_only_modified_white_space": false,
 	"trim_trailing_white_space_on_save": "all",
-	"word_wrap": false
+	"word_wrap": false,
+	"update_check": true,
+	"index_files": true,
 }
