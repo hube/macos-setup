@@ -8,6 +8,3 @@ alias gcm='git commit -m'
 unset LESS
 
 unsetopt share_history
-
-eval "$(pyenv init -)"
-eval "$(rbenv init - zsh)"

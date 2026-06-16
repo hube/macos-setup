@@ -1,12 +1,8 @@
 #!/usr/bin/env bash
 
 brew install \
-  awscli \
   docker-compose \
   git \
-  gradle \
-  pyenv \
-  rbenv \
   vim
 
 # Casks
